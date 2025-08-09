@@ -1,2 +1,2 @@
-# suban.gihub.io
-Suban’s web repo
+#Suban's Courses
+Suban’s Courses
